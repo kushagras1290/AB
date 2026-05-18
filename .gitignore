@@ -1,0 +1,5 @@
+.env
+*.log
+.chrome-user-data/
+__pycache__/
+*.pyc
