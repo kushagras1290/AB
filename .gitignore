@@ -1,5 +1,5 @@
 .env
 *.log
-.chrome-user-data/
+/.chrome-user-data
 __pycache__/
 *.pyc
